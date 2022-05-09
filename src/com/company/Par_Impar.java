@@ -10,8 +10,7 @@ public class Par_Impar {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int valor;
-        int pares = 0;
-        int impares = 0;
+        int pares = 0,impares = 0;
         int a;
         int i = 0;
         System.out.println("Quantos números quer testar?");
